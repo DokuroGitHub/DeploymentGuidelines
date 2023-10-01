@@ -1,0 +1,23 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "chemicalType": "ChemicalType 1",
+    "preHarvestIntervalInDays": 1,
+    "activeIngredient": "ActiveIngredient 1",
+    "name": "Name 1"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "chemicalType": "ChemicalType 2",
+    "preHarvestIntervalInDays": 2,
+    "activeIngredient": "ActiveIngredient 2",
+    "name": "Name 2"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000003",
+    "chemicalType": "ChemicalType 2",
+    "preHarvestIntervalInDays": 3,
+    "activeIngredient": "ActiveIngredient 1",
+    "name": "Name 3"
+  }
+]
