@@ -13,7 +13,7 @@ public class AppController : ApiControllerBase
         _appsettings = appsettings;
     }
 
-    [HttpGet("appsettings")]
-    public IActionResult GetAppsettings()
-        => Ok(_appsettings);
+    // [HttpGet("appsettings")]
+    // public IActionResult GetAppsettings()
+    //     => Ok(_appsettings);
 }
